@@ -1,4 +1,4 @@
 # ML2021
-*I am learning ML
+* I am learning ML
 
-*My first course "python for engineers"
+* My first course "python for engineers"
